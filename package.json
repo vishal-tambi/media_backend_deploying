@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-  "start": "nodemon index.js",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.1",
